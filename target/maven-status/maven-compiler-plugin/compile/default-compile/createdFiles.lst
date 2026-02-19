@@ -1,0 +1,5 @@
+com\projecr\mariya\productStarSpring2\config\AppConfig.class
+com\projecr\mariya\productStarSpring2\service\CsvParserService.class
+com\projecr\mariya\productStarSpring2\App.class
+com\projecr\mariya\productStarSpring2\processor\ResultsProcessor.class
+com\projecr\mariya\productStarSpring2\model\Result.class
